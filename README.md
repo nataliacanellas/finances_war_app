@@ -1,16 +1,8 @@
-# flutter_teste_app
+# Finances War
 
-A new Flutter project.
+Esse projeto foi o projeto inicial em grupo para o curso de Flutter da Proway. 
+Nele foi desenvolvida apenas a home page do app de controle de finanças. Onde temos um card inicial de somatório de entradas de dinheiro e embaixo temos a listagem do extrato com todas as entradas e saídas. Com flutter é muito prático e fácil fazer o front end de telas como esta. Agradecimento especial ao nosso tutor Ailton.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div >
+  <img src="https://user-images.githubusercontent.com/64443469/185683574-057b0ce4-f700-41bf-87b4-9b718c9b7840.png" width="250">
+</div>
